@@ -1,4 +1,4 @@
-# <Pre-Study-Guide Webpage>
+# Pre-Study-Guide Webpage
 
 ## Description
 
